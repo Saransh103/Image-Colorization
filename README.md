@@ -46,6 +46,7 @@ Implementation:-
 
 
 
+FIND ATTACHED REPORT
 References:
 
 Original paper on Image-to-Image Translation (using U-Net generator & PatchGAN discriminator)
